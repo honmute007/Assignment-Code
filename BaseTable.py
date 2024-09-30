@@ -6,7 +6,7 @@ import pandas as pd
 import math
 from CustomError import EmptyTable
 
-
+#new Line added for the Git hub testing 
 class BaseTable:
     """
     Importing the CSV file to SqLite Database
